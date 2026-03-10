@@ -32,11 +32,11 @@ This project aims to develop a Java Swing-based graphical user interface (GUI) t
 
 ## Deliverables
 
-- ✅ Java Swing-based GUI interface for JPF
-- ✅ Visual tree/graph representation of program execution states
-- ✅ Display of error traces and detected bugs
-- ✅ Option to load and step through different executions
-- ✅ Documentation and usage guide
+-  Java Swing-based GUI interface for JPF
+-  Visual tree/graph representation of program execution states
+-  Display of error traces and detected bugs
+-  Option to load and step through different executions
+-  Documentation and usage guide
 
 ---
 
@@ -88,16 +88,16 @@ Although I’m still early in my open source journey, I am committed to learning
 
 ## Why Me?
 
-- ✅ I have strong foundational knowledge in Java.
-- ✅ I’m already learning JPF and exploring its codebase.
-- ✅ I have the determination to see this project through.
-- ✅ I want to become a long-term contributor to the JPF community.
+-  I have strong foundational knowledge in Java.
+-  I’m already learning JPF and exploring its codebase.
+-  I have the determination to see this project through.
+-  I want to become a long-term contributor to the JPF community.
 
 ---
 
 ## GitHub Repository
 
-👉 [https://github.com/B-TechCode/gsoc-2025-jpf-visualization](https://github.com/B-TechCode/gsoc-2025-jpf-visualization) *(update this with your actual repo link)*
+ [https://github.com/B-TechCode/gsoc-2025-jpf-visualization](https://github.com/B-TechCode/gsoc-2025-jpf-visualization) 
 
 ---
 
